@@ -7,7 +7,7 @@ import back4 from "../assets/back4.jpg"
 function Backgound({heroCount}) {
   
     if(heroCount === 0){
-        return  <img src={back1} alt="" className='w-full h-full   object-contain'/>
+        return  <img src={back1} alt="" className='w-full h-full   object-cover'/>
     }else if(heroCount === 1){
        return  <img src={back2} alt="" className='w-[100%] h-[100%] float-left overflow-auto  object-cover'/>
 

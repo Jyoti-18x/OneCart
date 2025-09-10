@@ -1,5 +1,5 @@
 import React from 'react'
-import back1 from "../assets/back1.jpg"
+import back1 from "../assets/Trendyimage.jpg"
 import back2 from "../assets/back2.jpg"
 import back3 from "../assets/back3.jpg"
 import back4 from "../assets/back4.jpg"
